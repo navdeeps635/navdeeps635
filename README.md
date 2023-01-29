@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Navdeep Singh</h1>
 <h3 align="center">A passionate Analytics Professional from India</h3>
 
-<img align = "right" alt = "coding" width = 400 height = 300 src = https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif>
+<img align = "right" alt = "coding" width = 400 height = 250 src = https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navdeeps635&label=Profile%20views&color=0e75b6&style=flat" alt="navdeeps635" /> </p>
 
