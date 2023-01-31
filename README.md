@@ -11,7 +11,7 @@
 
 - 📫 How to reach me [Email](mailto:navdeep3135@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fsm9cjBd2a03xgEJOoos-34aBYeWbqYO/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xRXSCXBF-u__DRD7XaMQ0uZZBaAHqnGS/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
