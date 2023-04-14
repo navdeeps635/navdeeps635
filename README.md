@@ -7,12 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navdeeps635&label=Profile%20views&color=0e75b6&style=flat" alt="navdeeps635" /> </p>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://sites.google.com/view/navdeep-singh-portfolio/home?authuser=0)
-
-- 📫 How to reach me [Email](mailto:navdeep3135@gmail.com)
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xRXSCXBF-u__DRD7XaMQ0uZZBaAHqnGS/view?usp=share_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/navdeeps635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navdeeps635" height="30" width="40" /></a>
