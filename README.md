@@ -1,7 +1,6 @@
 ![logo](https://raw.githubusercontent.com/navdeeps635/navdeeps635/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Navdeep Singh</h1>
-<h3 align="center">A passionate Analytics Professional from India</h3>
 
 <img align = "right" alt = "coding" width = 400 height = 250 src = https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif>
 
